@@ -1,0 +1,2 @@
+# chicken_diesease_classification_end_to_end_pipeline
+classify healthy and sick chicken using machine learning
